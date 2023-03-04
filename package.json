@@ -1,0 +1,22 @@
+{
+  "name": "@dadmor/pure-baldr-typo-components",
+  "version": "0.0.1",
+  "description": "Taiwind UiKit typo components",
+  "license": "MIT",
+  "repository": "pureBaldr/typoComponents",
+  "keywords": [
+    "light",
+    "less 1 kb",
+    "npm",
+    "package",
+    "react",
+    "uikit",
+    "tailwind",
+    "typescript",
+    "typography components"
+  ],
+  "devDependencies": {
+    "@dadmor/pure-baldr-core": "^0.0.11",
+    "@types/react": "^18.0.28"
+  }
+}
